@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Start Jekyll
-email: taniarascia@gmail.com
+email: kirklestelle@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My first test site made with Jekyll.
   - followed steps from Quick-start guide on jekyllrb.com
 baseurl: "/startjekyll" # the subpath of your site, e.g. /blog
-url: "http://taniarascia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://kirklestelle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
