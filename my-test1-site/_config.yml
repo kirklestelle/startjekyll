@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   My first test site made with Jekyll.
   - followed steps from Quick-start guide on jekyllrb.com
 baseurl: "/startjekyll" # the subpath of your site, e.g. /blog
-url: "http://kirklestelle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://taniarascia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
